@@ -88,7 +88,7 @@ macroeconomic-energy-dashboard/
 3. Use filters and interactive controls to explore by year range, energy type, or region
 
 ### Option 2 — Live Demo on Tableau Public
-👉 **[View Live Dashboard on Tableau Public]([LINK_HERE]https://public.tableau.com/app/profile/elisha.olusoji.soji.isola/viz/WORLDENERGYCONSUMPTIONDASHBOARD_16622911238680/WORLDENERGYCONSUMPTIONDASHBOARD)**
+👉 **[View Live Dashboard on Tableau Public]([LINK_HERE]) https://public.tableau.com/app/profile/elisha.olusoji.soji.isola/viz/WORLDENERGYCONSUMPTIONDASHBOARD_16622911238680/WORLDENERGYCONSUMPTIONDASHBOARD**
 <!-- Publish your dashboard to Tableau Public and paste the link above -->
 
 ---
